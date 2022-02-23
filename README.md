@@ -6,7 +6,7 @@
 I am Alexandru Mondan, I work as a ML & CV & AR Software Engineer for [Designhubz Dubai](https://designhubz.com). Here I contribute to state of the art Virtual Tryon experiences and innovative recommendation systems.
 
 ## Connect with me: 
-![LinkedIn](https://img.shields.io/badge/alexandru-m-71380ab6.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/alexandru-m-71380ab6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-m-71380ab6/)
 
 ## 🔧 Technologies & Tools
 * Languages:
