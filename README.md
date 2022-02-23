@@ -1,4 +1,5 @@
-![Man Coding GIF](coding.gif)
+
+<p align="center">![Man Coding GIF](coding.gif)</p>
 
 <h1 align="center">Hi 👋, I'm Alexandru</h1>
 <h3 align="center">ML & CV & AR Software Engineer</h3>
