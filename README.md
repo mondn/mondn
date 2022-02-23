@@ -1,4 +1,4 @@
-![Man Coding GIF](mondn/resources/coding.gif)
+![Man Coding GIF](coding.gif)
 
 <h1 align="center">Hi 👋, I'm Alexandru</h1>
 <h3 align="center">ML & CV & AR Software Engineer</h3>
